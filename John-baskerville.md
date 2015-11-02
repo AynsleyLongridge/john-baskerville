@@ -1,6 +1,7 @@
 <html>
 <body>
 <article> <header>
+<meta charset="utf-8" />
 <h1>John Baskerville</h1>
 <h3>Letter Founder & Master Printer</h3>
 
