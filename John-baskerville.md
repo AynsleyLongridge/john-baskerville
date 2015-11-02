@@ -39,5 +39,5 @@ Like Baskerville, Mrs Eaves, cut by Zuzana Licko of Émigré, has a near vertica
 
 </section>
 
-<footer><small>The content on this page is developed from original copy from Wikipedia and licensed under a Creative Commons Attribution-ShareAlike License, meaning you’re allowed to copy, distribute and transmit the work as long as it is attributed to the original authors.</footer></small>
+<footer><section><small>The content on this page is developed from original copy from Wikipedia and licensed under a Creative Commons Attribution-ShareAlike License, meaning you’re allowed to copy, distribute and transmit the work as long as it is attributed to the original authors.</footer></section></small>
 </article>
