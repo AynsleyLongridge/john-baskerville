@@ -5,4 +5,4 @@ Each week we'll build on this project as we take you through HTML and CSS. This 
 
 2nd November 2015
 -----------------
-+ [Version 1] (https://AynsleyLongridge.github.com/john-baskerville/blob/master/version-1.html) - Marked up plain text file as an HTML5 page.
++ [Version 1] (https://github.com/AynsleyLongridge/john-baskerville.git) - Marked up plain text file as an HTML5 page.
