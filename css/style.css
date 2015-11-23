@@ -39,7 +39,7 @@ header h2 {
     font-size: 0.75em;
     }
     
-    .anchor {
+    a:hover {
         text-transform: uppercase;
         font-size: .75em;
     }
