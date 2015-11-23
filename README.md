@@ -12,4 +12,4 @@ Each week we'll build on this project as we take you through HTML and CSS. This 
 + [Version 2](https://AynsleyLongridge.github.io/john-baskerville/version-2.html) - Adding structured lists. 
 + [Version 3](https://AynsleyLongridge.github.io/john-baskerville/version-3.html) - 
 + [Version 4](https://AynsleyLongridge.github.io/john-baskerville/version-4.html) - 
-+ [Version 4](https://AynsleyLongridge.github.io/john-baskerville/version-5.html) - Introduction to CSS
++ [Version 5](https://AynsleyLongridge.github.io/john-baskerville/version-5.html) - Introduction to CSS
