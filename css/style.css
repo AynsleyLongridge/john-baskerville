@@ -17,7 +17,7 @@ section {padding: 2em 0 2em 0}
 
         h1, h2, h3 {
             font-weight: normal;
-        color:darkslateblue
+        color:darkslategray
         }
         
         h1 {font-size: 3.375em;}
@@ -26,7 +26,7 @@ section {padding: 2em 0 2em 0}
         
 /*--------------- LINKS ------------- */
         a {
-        color:darkslateblue;
+        color:darkslategray
         text-decoration: none;
         text-transform: uppercase;
         letter-spacing: 2px;
@@ -34,7 +34,7 @@ section {padding: 2em 0 2em 0}
 }
 
 a:hover {
-    color:cornflowerblue;
+    color:darksalmon;
     border-bottom: 1px dotted;
 
 }
@@ -42,7 +42,13 @@ a:hover {
 .intro {fontsize: 1.25em;
         line-height: 1.9em;
         padding: 2em 0 2em 0;}
-/* top right bottom left */
+/* top right bottom left */;
+
+nav {
+    
+    border-top:1px solid #darkslategray;
+    border-top:1px solid #darkslategray;
+    
 
 
 
