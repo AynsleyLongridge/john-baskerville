@@ -26,11 +26,16 @@ section {padding: 2em 0 2em 0}
         
 /*--------------- LINKS ------------- */
         a {
-        color:darksalmon;
+        color:darkslateblue;
         text-decoration: none;
         text-transform: uppercase;
         letter-spacing: 2px;
             
+}
+
+a:hover {
+    color:cornflowerblue;
+
 }
     
 .intro {fontsize: 1.25em;
