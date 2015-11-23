@@ -17,7 +17,7 @@ section {padding: 2em 0 2em 0}
 
         h1, h2, h3 {
             font-weight: normal;
-            color: black;
+        color:firebrick
         }
         
         h1 {font-size: 3.375em;}
