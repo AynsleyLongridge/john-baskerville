@@ -37,7 +37,12 @@ header h2 {
 
     blockquote cite {
     font-size: 0.75em;
-    }    
+    }
+    
+    .anchor{
+        text-transform: uppercase;
+        font-size: .75em;
+    }
 /*--------------- LINKS ------------- */
         a {
         color:darkred;
