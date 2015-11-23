@@ -17,7 +17,7 @@ section {padding: 2em 0 2em 0}
 
         h1, h2, h3 {
             font-weight: normal;
-        color:darkslategray
+        color:darkred;
         }
         
         h1 {font-size: 3.375em;}
@@ -26,7 +26,7 @@ section {padding: 2em 0 2em 0}
         
 /*--------------- LINKS ------------- */
         a {
-        color:darkslategray
+        color:darkred;
         text-decoration: none;
         text-transform: uppercase;
         letter-spacing: 2px;
