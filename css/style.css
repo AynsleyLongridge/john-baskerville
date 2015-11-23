@@ -33,9 +33,11 @@ header h2 {
         padding: 2em 0;
         font-size: 1.75em;
         line-height: 1.5em;
-
-
 }
+
+    blockquote cite {
+    font-size: 0.75em;
+    }    
 /*--------------- LINKS ------------- */
         a {
         color:darkred;
