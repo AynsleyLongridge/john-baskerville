@@ -17,18 +17,26 @@ section {padding: 2em 0 2em 0}
 
         h1, h2, h3 {
             font-weight: normal;
-        color:firebrick
+        color:darkslateblue
         }
         
         h1 {font-size: 3.375em;}
         h2 {font-size: 1.8em;}
         h3 {font-size: 1.5em;}
         
+/*--------------- LINKS ------------- */
         a {
-    color:darkslateblue;
+        color:darksalmon;
+        text-decoration: none;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+            
 }
     
 .intro {fontsize: 1.25em;
         line-height: 1.9em;
         padding: 2em 0 2em 0;}
 /* top right bottom left */
+
+
+
