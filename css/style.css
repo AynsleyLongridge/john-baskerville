@@ -55,12 +55,14 @@ a:hover {
     
 .intro {fontsize: 1.25em;
         line-height: 1.9em;
-        padding: 2em 0 2em 0;}
-/* top right bottom left */;
+        padding: 2em 0 2em 0;
+}
+/* top right bottom left */
 
 nav {
     border-top:1px solid #333;
-    border-top:1px solid #333; }
+    border-top:1px solid #333; 
+}
 
 nav ul {
     text-align: center;
