@@ -56,24 +56,17 @@ header h2 {
 }
 
 a:hover {
-    color:darksalmon;
+    color: darksalmon;
     border-bottom: 1px dotted;
 
 }
     
-.intro {fontsize: 1.25em;
-        line-height: 1.9em;
-        padding: 2em 0 2em 0;
-}
-/* top right bottom left */
-
-nav {
+    nav {
     padding-top: 2em;
     border-top: 1px dotted darkslategray;
     border-bottom: 1px dotted darkslategray;
     padding-bottom: 2em;
-    
-}
+    }
 
 nav ul {
     text-align: center;
@@ -84,6 +77,14 @@ nav ul li {
     display: inline;
     margin: 20px;
 }
+    
+.intro {fontsize: 1.25em;
+        line-height: 1.9em;
+        padding: 2em 0 2em 0;
+}
+/* top right bottom left */
+
+
     
  /*------------ FOOTER ----------*/
 
