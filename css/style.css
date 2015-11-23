@@ -1,7 +1,7 @@
 
         body{
             width: 85%;
-            max-width: 50px;
+            max-width: 950px;
             min-width; 320px;
             font-size: 100%;
             font-family: 'Libre Baskerville', serif;
@@ -27,7 +27,7 @@ section {padding: 2em 0 2em 0}
         
 header h2 {
     font-style: italic;
-    padding: -0.5em 0 1em 0; 
+    padding: -0.5em 0 1em 0; }
 
     blockquote {
         padding: 2em 0;
