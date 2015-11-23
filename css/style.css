@@ -18,12 +18,18 @@ section {padding: 2em 0 2em 0}
         h1, h2, h3 {
             font-weight: normal;
         color:darkred;
+        
         }
         
         h1 {font-size: 3.375em;}
         h2 {font-size: 1.8em;}
         h3 {font-size: 1.5em;}
         
+header h2 {
+    font-style: italic;
+    margin: -0.5em 0 1em 0; 
+
+}
 /*--------------- LINKS ------------- */
         a {
         color:darkred;
@@ -45,7 +51,6 @@ a:hover {
 /* top right bottom left */;
 
 nav {
-    
     border-top:1px solid #333;
     border-top:1px solid #333; }
 
