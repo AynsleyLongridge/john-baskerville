@@ -1,7 +1,7 @@
 
         body{
             width: 85%;
-            max-width: 950px;
+            max-width: 50px;
             min-width; 320px;
             font-size: 100%;
             font-family: 'Libre Baskerville', serif;
@@ -75,8 +75,7 @@ nav ul {
 
 nav ul li {
     display: inline;
-    margin: 20px;
-}
+    margin: 20px;}
     
 .intro {fontsize: 1.25em;
         line-height: 1.9em;
