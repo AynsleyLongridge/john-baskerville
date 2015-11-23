@@ -69,8 +69,8 @@ a:hover {
 
 nav {
     padding-top: 2em;
-    border-top-color:darkslategray;
-    border-bottom-color:darkslategray;
+    border-top: 1px dotted darkslategray;
+    border-bottom: 1px dotted darkslategray;
     padding-bottom: 2em;
     
 }
