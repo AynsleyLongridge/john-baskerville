@@ -68,8 +68,11 @@ a:hover {
 /* top right bottom left */
 
 nav {
-    border-top:1px solid #333;
-    border-top:1px solid #333; 
+    padding-top: 2em;
+    border-top-color:darkslategray;
+    border-bottom-color:darkslategray;
+    padding-bottom: 2em;
+    
 }
 
 nav ul {
