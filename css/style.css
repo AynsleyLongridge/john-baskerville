@@ -47,7 +47,17 @@ a:hover {
 nav {
     
     border-top:1px solid #darkslategray;
-    border-top:1px solid #darkslategray;
+    border-top:1px solid #darkslategray; }
+
+nav ul {
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 10px;
+}
+    
     
 
 
