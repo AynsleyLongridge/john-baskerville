@@ -164,17 +164,18 @@ footer hr {margin-bottom: 3em;
 
 
 
-/*-----MEDIA QUERIES--------*/
+/*--------------------MEDIA QUERIES--------------------*/
 
-/* --------- SMART PHONE --------*/
-@media (max-width: 30em)
+/* --------- SMART PHONE -----------*/
+        
+@media (max-width: 30em){
     body {
     margin: auto:0;
         width:100}
-    
+}
 /*-------- TABLET (double check this CSS) ------ */
 
-@media (max-width: 50em )
+@media (max-width: 50em ) {
     
 body{ article 
     width: 95%
@@ -186,6 +187,7 @@ body{ article
     padding: 0;
     max-width: 100%}
     
+}
         
         
 
