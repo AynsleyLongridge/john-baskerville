@@ -1,0 +1,103 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1em;
+}
+        body{
+            width: 85%;
+            max-width: 950px;
+            min-width; 320px;
+            font-size: 100%;
+            font-family: 'Libre Baskerville', serif;
+            margin: auto;
+            background-color: #f0f0f0;
+            color: #666666;
+            line-height: 1.4em;
+            }
+
+section {padding: 2em 0 2em 0}
+            
+/* TYPEOGRAPHY */
+
+        h1, h2, h3 {
+            font-weight: normal;
+        color:darkred;
+        text-align: center;
+        }
+        
+        h1 {font-size: 3.375em;}
+        h2 {font-size: 1.8em;}
+        h3 {font-size: 1.5em;}
+        
+header h2 {
+    font-style: italic;
+    padding: -0.5em 0 1em 0; }
+
+    blockquote {
+        padding: 2em 0;
+        font-size: 1.75em;
+        line-height: 1.5em;
+}
+
+    blockquote cite {
+    font-size: 0.75em;
+    }
+    
+    a:hover {
+        text-transform: uppercase;
+        font-size: .75em;
+    }
+    
+    .anchor a:hover {color: darksalmon}
+    
+/*--------------- LINKS ------------- */
+        a {
+        color:darkred;
+        text-decoration: none;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+            
+}
+
+a:hover {
+    color: darksalmon;
+    border-bottom: 1px dotted;
+
+}
+    
+    nav {
+    padding-top: 2em;
+    border-top: 1px dotted darkslategray;
+    border-bottom: 1px dotted darkslategray;
+    padding-bottom: 2em;
+    }
+
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+nav ul li {
+    display: inline;
+    margin: 20px;}
+    
+.intro {fontsize: 1.25em;
+        line-height: 1.9em;
+        padding: 2em 0 2em 0;
+}
+/* top right bottom left */
+
+
+    
+ /*------------ FOOTER ----------*/
+
+footer {
+    border-top: 1px solid #333;
+    line-height: 1.5em;
+    padding-bottom: 2em;
+}
+
+
+
+
