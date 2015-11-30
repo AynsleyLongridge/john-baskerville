@@ -48,6 +48,8 @@ p, li{ padding: 0em 0 1em 0;
 
 }
 
+.leader {font-style: italic;}
+
     blockquote {
         padding: 0.2em 0 0.2em 0;
         font-size: 1.75em;
@@ -145,7 +147,50 @@ footer {
     border-top: 1px solid #333;
     line-height: 1.5em;
     padding-bottom: 2em;
+
 }
+
+footer hr {margin-bottom: 3em;
+}
+
+.contact {
+    padding top: 2em;
+    margin:auto;
+    text-align: center}
+
+.contact a {
+    margin-top: 
+
+
+
+
+/*-----MEDIA QUERIES--------*/
+
+/* --------- SMART PHONE --------*/
+@media (max-width: 30em)
+    body {
+    margin: auto:0;
+        width:100}
+    
+/*-------- TABLET (double check this CSS) ------ */
+
+@media (max-width: 50em )
+    
+body{ article 
+    width: 95%
+        padding: 0.5em;
+}
+    img {
+    display: block;
+    margin: 1em auto;
+    padding: 0;
+    max-width: 100%}
+    
+        
+        
+
+
+    
 
 
 
