@@ -165,30 +165,49 @@ footer hr {margin-bottom: 3em;
 
 
 /*--------------------MEDIA QUERIES--------------------*/
-
-/* --------- SMART PHONE -----------*/
         
-@media (max-width: 30em){
-    body {
-    margin: auto:0;
-        width:100}
-}
-/*-------- TABLET (double check this CSS) ------ */
-
-@media (max-width: 50em ) {
+/*---------- TABLET ----------------*/
+@media (max-width: 50em) {
     
-body{ article 
-    width: 95%
-        padding: 0.5em;
-}
+   
+    
+article {
+    width: 95%;
+    padding: 0.5em;
+    } 
+    
     img {
     display: block;
     margin: 1em auto;
     padding: 0;
-    max-width: 100%}
+    max-width: 100%;
+    }
+} 
+
+/*----------- SMARTPHONE ----------- */
+ @media (max-width: 30em) {
     
+   body {
+    margin: auto 0;
+    width: 100%;
+    font-size: 110%;
+    }
+    
+article {
+    width: 90%;
+    } 
+
+h1 {font-size: 2.9em;}   
+
+blockquote p{padding: 0;
+line-height: 1.5em}  
+     
+hgroup h2 {font-size: 1.5em;
+padding-top: 0.5em}  
+     
+nav ul li {font-size: .75em;
+        margin: 10px}
 }
-        
         
 
 
